@@ -1,3 +1,4 @@
 # commit_test
 
-Hello there. :-)
+Hello there!
+This was a test commit.
